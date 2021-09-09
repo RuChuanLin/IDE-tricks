@@ -30,7 +30,7 @@
 簡單分析一下要搜尋字串的模式：
 
 ```
-<th style="width: 80px" class="text-right">XXX</th>
+<th style="width: 80px" class="text-right" id="head">表頭</th>
 ```
 
 - style 到 class 這段文字是變數
